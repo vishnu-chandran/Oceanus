@@ -1,0 +1,76 @@
+ .display
+{
+  display: flex;
+}
+
+ .imgblock
+{
+  flex: auto;
+}  
+.bannerimg
+{
+	margin:55px 80px;
+}
+
+.Welcome
+{
+	color:#03bb85
+}
+
+.inputcolor
+{
+	color:grey;
+}
+
+.hl 
+	{
+     border-top: 1px solid #00C0F3;
+	 width:350px;
+    }
+
+	.passreset
+	{
+		margin-left:130px;
+		
+	}
+	.login
+	{
+		margin: 50px 1px;
+		background-color:#00BFFF;
+		color:white;
+		
+	}
+
+	input[type="text"] 
+	{
+      width: 350px;
+	  border: none;
+      border-bottom: 2px solid #00BFFF;
+
+    }
+
+	input[type="password"] 
+	{
+      width: 350px;
+	  border: none;
+      border-bottom: 2px solid #00BFFF;
+
+    }
+
+	input[type="email"] 
+	{
+      width: 350px;
+	  border: none;
+      border-bottom: 2px solid #00BFFF;
+
+    }
+
+	.hide{
+  display:none;
+}
+.show{
+  display:block;
+}
+
+
+	
