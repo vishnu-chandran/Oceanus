@@ -8,7 +8,7 @@ function loginform()
 	var password=document.getElementById("password");
 	var Passwordinfo=password.value;
 
-   	alert(" Your email is "+ email + " " );
+   	alert(" Your email is "+ mailinfo + " " );
 }
 
 
